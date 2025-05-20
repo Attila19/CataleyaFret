@@ -1,0 +1,20 @@
+Ceci est un mini cahier des charges accessible à ma formatrice via GitHub
+
+Le nom de ton projet
+Cataleya Fret
+
+L’objectif de ton application
+Bureau de gestion de transitaire virtuel en ligne
+
+Les fonctionnalités principales (MVP)
+génération de clients fidèles à partir de prospects 
+et ssuivie de colis livrés en outremer français
+
+Le type d’utilisateurs visés
+les clients prospects et le employés du groupe Colisbridge
+
+Les besoins techniques estimés
+comme le suggère la pédagogie de la formation je combine:
+- mini site de e-commerce
+- agenda collaboratif
+-plateforme de reservations

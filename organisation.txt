@@ -1,0 +1,12 @@
+Pour la réalisation des taches je vais etre seul globalement mais j'espère au moindre blocage 
+pouvoir etre assister de ma Formatrice.
+Je vais commencer par le recueil des profilses clients:
+je créer un formulaire sur "AirTable" 
+je créer une interface sur webFlow et je mets tout ça en ligne grace à
+gitHub au debut puis je pense à OVh. 
+je dois bien entendu consulter ma formatrice pour la validation
+de cette fonctionnalité et la cyber sécurité de ma base de données.
+
+Je réaliserai plusieurs autres fonctionnalitées de la sorte 
+à mesure que mon manager ou mes collègues des services administratifs 
+en feront la demande
